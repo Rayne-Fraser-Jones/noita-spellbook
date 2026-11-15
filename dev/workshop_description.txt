@@ -1,0 +1,27 @@
+[h1]Spellbook[/h1]
+Unlimited spell storage, right in the inventory's own spell row.
+
+Every spell you pick up goes into the spellbook. Open the inventory and the spell row shows one page of it, as real cards: drag a spell into a wand to take one copy, and drag a spell from a wand into the row to store it. There are no new controls to learn.
+
+[h2]Features[/h2]
+[list]
+[*][b]Unlimited storage.[/b] Spells you pick up are always stored, even with the inventory closed.
+[*][b]A table of contents.[/b] The SPELLBOOK panel lists the pages: a line per spell type, in the game's own order, with every spell you have unlocked shown faded where you have none. Rest the mouse on a page to look at it, click to select it. Tick "Merge categories" for one list, or "Hide unowned" to see only your own spells.
+[*][b]Copies stack.[/b] One slot per spell, with a count of how many you have. Drag one out and the next copy takes its place.
+[*][b]Limited-use spells.[/b] A slot shows the copy with the most uses left (or the fewest, in the settings). Right-click a spell to see every copy of it, one per slot, and take exactly the one you want.
+[*][b]Search[/b] spells by name.
+[*][b]Store all.[/b] Store every spell in your held wand, or in all your wands, with one click; double-click a spell in a wand to store just that one. These work where wands can be edited.
+[*]Spell refreshers refill stored spells too.
+[*]The panel can be dragged anywhere by its title bar, and collapsed to just the title bar.
+[*]Everything is saved with your run.
+[/list]
+
+[h2]Settings[/h2]
+In the Mods menu: Merge categories, Hide unowned spells, Show locked spells, which copy of a limited-use spell shows first, the right-click hint, Reset panel position, and a debug log.
+
+[h2]Notes[/h2]
+[list]
+[*]Works with spells added by other mods, in any load order: the spell list is read once a run has started.
+[*]Turn off other spell storage mods (such as Advanced Spell Inventory) to avoid conflicts.
+[*]Something wrong? Turn on "Debug log" in the mod settings, do it again, then save and quit, and post the [i]spellbank2_debug_log[/i] value from [i]save00/world_state.xml[/i] (in %USERPROFILE%/AppData/LocalLow/Nolla_Games_Noita) with a description of what happened.
+[/list]

@@ -1,0 +1,6 @@
+<Mod
+	name="Spellbook"
+	description="Unlimited spell storage in the inventory's own spell row: every spell you have, on pages in type order, moved one copy at a time with the normal controls. Right-click a spell to see every copy of it; search by name."
+	request_no_api_restrictions="0"
+>
+</Mod>
