@@ -1,27 +1,23 @@
-[h1]Spellbook[/h1]
-Unlimited spell storage, right in the inventory's own spell row.
+[b]Unlimited spell storage for Noita, right in the inventory's own spell row.[/b]
 
-Every spell you pick up goes into the spellbook. Open the inventory and the spell row shows one page of it, as real cards: drag a spell into a wand to take one copy, and drag a spell from a wand into the row to store it. There are no new controls to learn.
+No new controls to learn: the spell row shows a page of your spells as real cards, and you move them with the game's own drag-and-drop.
 
 [h2]Features[/h2]
-[list]
-[*][b]Unlimited storage.[/b] Spells you pick up are always stored, even with the inventory closed.
-[*][b]A table of contents.[/b] The SPELLBOOK panel lists the pages: a line per spell type, in the game's own order, with every spell you have unlocked shown faded where you have none. Rest the mouse on a page to look at it, click to select it. Tick "Merge categories" for one list, or "Hide unowned" to see only your own spells.
-[*][b]Copies stack.[/b] One slot per spell, with a count of how many you have. Drag one out and the next copy takes its place.
-[*][b]Limited-use spells.[/b] A slot shows the copy with the most uses left (or the fewest, in the settings). Right-click a spell to see every copy of it, one per slot, and take exactly the one you want.
-[*][b]Search[/b] spells by name.
-[*][b]Store all.[/b] Store every spell in your held wand, or in all your wands, with one click; double-click a spell in a wand to store just that one. These work where wands can be edited.
-[*]Spell refreshers refill stored spells too.
-[*]The panel can be dragged anywhere by its title bar, and collapsed to just the title bar.
-[*]Everything is saved with your run.
-[/list]
+[b]Every spell, stored.[/b] Spells you pick up go straight into the spellbook, even with the inventory closed. Drag one into a wand to take it; drag it back to store it.
 
-[h2]Settings[/h2]
-In the Mods menu: Merge categories, Hide unowned spells, Show locked spells, which copy of a limited-use spell shows first, the right-click hint, Reset panel position, and a debug log.
+[b]A table of contents.[/b] The SPELLBOOK panel lists every page by spell type. Sweep the mouse down it to flick through the pages; click one to stay there.
+
+[b]Copies stack.[/b] One slot per spell, with a count. Take one and the next copy takes its place.
+
+[b]Pick the exact copy.[/b] Right-click a limited-use spell to see every copy of it by uses left.
+
+[b]Search.[/b] Type part of a name to find a spell.
+
+[b]Store all.[/b] In a Holy Mountain, store a whole wand in one click, or double-click a spell to store just that one.
+
+Also: spell refreshers refill stored spells, the panel can be moved and collapsed, and everything is saved with your run.
 
 [h2]Notes[/h2]
-[list]
-[*]Works with spells added by other mods, in any load order: the spell list is read once a run has started.
-[*]Turn off other spell storage mods (such as Advanced Spell Inventory) to avoid conflicts.
-[*]Something wrong? Turn on "Debug log" in the mod settings, do it again, then save and quit, and post the [i]spellbank2_debug_log[/i] value from [i]save00/world_state.xml[/i] (in %USERPROFILE%/AppData/LocalLow/Nolla_Games_Noita) with a description of what happened.
-[/list]
+Turn off other spell storage mods, such as Advanced Spell Inventory. Spells added by other mods work, in any load order.
+
+Every detail, the settings, troubleshooting and the source code: [url=https://github.com/Rayne-Fraser-Jones/noita-spellbook]github.com/Rayne-Fraser-Jones/noita-spellbook[/url]
