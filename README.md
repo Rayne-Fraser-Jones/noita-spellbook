@@ -35,7 +35,7 @@ is saved with your run.
 
 ## Install
 
-- **Steam Workshop:** coming soon.
+- **Steam Workshop:** [subscribe here](https://steamcommunity.com/sharedfiles/filedetails/?id=3840348207).
 - **By hand:** download this repository and put it in Noita's `mods` folder as a folder named
   **`spellbook`** (the name matters). Then enable "Spellbook" in the Mods menu.
 
