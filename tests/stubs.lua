@@ -8,7 +8,7 @@
 -- What the game itself does (moving a card into a wand, dropping it on the ground, stale
 -- positions for a frame) is acted out by each test with `set_parent` and slot changes;
 -- see the comments in the tests. These stand-ins are a model of the game, not the game:
--- behaviour confirmed in play is listed in README.md.
+-- behaviour confirmed in play is listed in docs/DETAILS.md.
 MOD_ROOT = "./"  -- tests are run from the mod folder
 globals, settings, printed = {}, {}, {}
 -- most tests are about the spells you own: "Hide unowned" ticked (tests/merge_categories.lua
