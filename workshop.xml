@@ -1,7 +1,7 @@
 <Mod
 	name="Spellbook"
 	description=""
-	tags="quality of life,spells"
+	tags="quality of life,spells,gameplay"
 	dont_upload_folders="tests|dev|docs"
 >
 </Mod>
